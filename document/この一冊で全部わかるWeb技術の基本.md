@@ -30,4 +30,4 @@
     - インターネットとWebはセットで使われることにより爆発的に広まりました。そのため、インターネットとWebは混同されることも多いです。</details>
 
 
-**<details><summary>01Webとは</summary>**
+**<details><summary>03 さまざまなWebの用途</summary>**
