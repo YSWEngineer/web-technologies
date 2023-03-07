@@ -59,4 +59,4 @@
     - ハイパーテキストはHTMLで記述する。
     - WebブラウザはHTMLをWebページとして表示する。
 - プラス1
-    - Internet ExplorerはMicrosoft、Firefoxは非営利団体のMozilla Foundation、ChromeはGoogleがそれぞれ開発・公開しています。
+    - Internet ExplorerはMicrosoft、Firefoxは非営利団体のMozilla Foundation、ChromeはGoogleがそれぞれ開発・公開しています。</details>
