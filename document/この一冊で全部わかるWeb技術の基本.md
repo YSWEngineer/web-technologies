@@ -49,3 +49,6 @@
 
 
 **<details><summary>04 HTMLとWebブラウザ</summary>**
+- 記述言語 HTML
+    - ハイパーテキストを記述するための言語がHTML(HyperText Markup Languabe)です。
+    - HTMLでは文章の表示方法やハイパーリンクをタグと呼ばれるマークによって表現します。このような言語は一般にマークアップ言語と呼ばれます。
