@@ -63,3 +63,6 @@
 
 
 **<details><summary>05 WebサーバーとHTTP</summary>**
+- 配信プログラムWebサーバー
+    - WebサーバーはWebブラウザからコンテンツの要求があると、必要なコンテンツをネットワークを通してWebブラウザに送信する役割を持ちます。
+    - 一般的にはApacheやIIS(Internet Information Service)というプログラムがよく利用されています。
