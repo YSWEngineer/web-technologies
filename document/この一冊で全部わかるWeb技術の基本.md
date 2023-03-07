@@ -75,4 +75,6 @@
     - WebブラウザとWebサーバーのやりとりはHTTPに従って行われる。
     - 環境が違ってもプロトコルは世界共通。WebブラウザやWebサーバーにはさまざまな種類がありますが、どれを使っていてもHTTPという共通のルールでやりとりできます。
 - プラス1
-    - Apacheの正式名称はApache HTTP Serverで非営利団体のApache Software Foundaitonが開発・公開しています。IISはMicrosoftが開発・公開している製品です。
+    - Apacheの正式名称はApache HTTP Serverで非営利団体のApache Software Foundaitonが開発・公開しています。IISはMicrosoftが開発・公開している製品です。</details>
+
+
