@@ -79,3 +79,7 @@
 
 
 **<details><summary>06 Webページが表示される流れ</summary>**
+- URLを使ってWebサーバーにアクセス
+    - Webページを取得するとき、最初に「 http://www.sbcr.jp/index.html 」のようなURL(Uniform Resouce Locator)で、取得したいWebページをWebブラウザに指定します。
+    - このURLには「どのやりとりの手順で」「どのWebサーバーに」「何のコンテンツを」取りに行くかという情報が含まれており、Webブラウザはこの情報をもとに要求を送ります。
+    - Webで使われるやりとりの手順にはHTTPと、HTTPのセキュリティを高めた手順であるHTTPSがあります。
