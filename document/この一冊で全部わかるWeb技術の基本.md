@@ -48,4 +48,4 @@
     - Webはもともと文書公開のための技術でしたが、新たな利用方法が提唱されるのに合わせて、今も新しい機能が次々に追加されています。</details>
 
 
-**<details><summary>01Webとは</summary>**
+**<details><summary>04 HTMLとWebブラウザ</summary>**
