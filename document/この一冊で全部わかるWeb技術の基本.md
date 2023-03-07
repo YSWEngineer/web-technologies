@@ -62,4 +62,4 @@
     - Internet ExplorerはMicrosoft、Firefoxは非営利団体のMozilla Foundation、ChromeはGoogleがそれぞれ開発・公開しています。</details>
 
 
-**<details><summary>04 HTMLとWebブラウザ</summary>**
+**<details><summary>05 WebサーバーとHTTP</summary>**
