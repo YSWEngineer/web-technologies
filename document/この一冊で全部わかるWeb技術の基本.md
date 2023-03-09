@@ -134,3 +134,4 @@
     - CGIがサーバーサイド・スクリプトを実行する流れ。</details>
 
 
+**<details><summary>01Webとは</summary>**
