@@ -113,4 +113,4 @@
     - 「動的ページ」は要求によってコンテンツが変わる。
 
 
-**<details><summary>01Webとは</summary>**
+**<details><summary>08 動的ページの仕組み</summary>**
