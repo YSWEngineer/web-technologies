@@ -114,3 +114,7 @@
 
 
 **<details><summary>08 動的ページの仕組み</summary>**
+- CGI(Common Gateway Interface)
+    - WebサーバーがWebブラウザからの要求に応じてプログラムを起動させるための仕組みをCGI(Common Gateway Interface)と呼びます。動的ページを利用する際は、WebブラウザはCGIが用意された場所を示すURLにアクセスします。
+        
+        要求を受信したWebサーバーでは、CGIによってプログラムが起動します。プログラムはWebブラウザから送信されてきたデータやWebサーバー自身が持っているデータなどからHTMLファイルを作り出し、Webサーバーを通してWebブラウザに送信されます。
