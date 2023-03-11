@@ -182,4 +182,4 @@
         Webページ中のテキストが表しているのが「住所」なのか「人名」なのかという情報を持たせ、機会検索などの精度を高めます。</details>
 
 
-**<details><summary>01Webとは</summary>**
+**<details><summary>COLUMN</summary>**
