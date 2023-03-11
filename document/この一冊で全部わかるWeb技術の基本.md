@@ -192,3 +192,6 @@
 
 
 # Chapter 2 Webとネットワーク技術
+
+
+**<details><summary>01Webとは</summary>**
