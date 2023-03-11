@@ -154,4 +154,4 @@
     - W3Cは非営利団体で、W3Cに加入する組織の会費や研究助成金、寄付金などを資金として活動を行なっています。</details>
 
 
-**<details><summary>01Webとは</summary>**
+**<details><summary>10 Webの設計思想</summary>**
