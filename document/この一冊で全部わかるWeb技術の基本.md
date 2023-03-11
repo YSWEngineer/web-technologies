@@ -2,7 +2,7 @@
 # Chapter 1 Web技術とは
 
 
-**<details><summary>01Webとは</summary>**
+**<details><summary>01 Webとは</summary>**
 インターネットが普及した今では、最新のニュースや自分の調べたいことなどの文書を簡単に探してみることができます。また、SNS(ソーシャル・ネットワーキング・サービス)によって自分の文書や画像・動画を世界中の人に簡単に公開することもできるようになりました。こういった文書の公開・閲覧のためのシステムをWebと呼びます。
 - World Wide Web
     - Webの正式名書はWorld Wide Web(世界に広がる蜘蛛の巣)といいます。
@@ -16,7 +16,7 @@
     - ハイパーリンクは単に「リンク」とも呼ばれます。</details>
 
 
-**<details><summary>02インターネットとWeb</summary>**
+**<details><summary>02 インターネットとWeb</summary>**
 - CERNで開発
     - WebはCERN(セルン、欧州原子核研究機構)のティム・バーバーズ＝リーにより開発されました。
     - もともとは各国の実験者がすぐに情報にアクセスできるようにするため、Webの原型のENQUIRE(エンクワイア)が開発され、それが改良されて、World Wide Webが誕生。
@@ -194,4 +194,4 @@
 # Chapter 2 Webとネットワーク技術
 
 
-**<details><summary>01Webとは</summary>**
+**<details><summary>01 Webを実現するコンピューターネットワーク</summary>**
