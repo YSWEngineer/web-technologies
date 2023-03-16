@@ -350,4 +350,4 @@ Webを支えているのがコンピューターネットワークと呼ばれ�
     インターネット上でリソースを識別する手段としてURIが存在します。URIは、リソースの場所を示すURLとリソースの名前を示すURNに分けることができます。</details>
 
 
-**<details><summary>01 Webとは</summary>**
+**<details><summary>06 DNS</summary>**
