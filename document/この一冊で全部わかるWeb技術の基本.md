@@ -375,4 +375,4 @@ Webを支えているのがコンピューターネットワークと呼ばれ�
     DNSにおいてドメインからIPアドレス(IPv4)を取得するための情報をAレコードといいます。逆にIPアドレスからドメイン名を取得するための情報をPTRレコードといいます。</details>
 
 
-**<details><summary>01 Webとは</summary>**
+**<details><summary>07 HTTP</summary>**
