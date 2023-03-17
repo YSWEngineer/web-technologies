@@ -376,3 +376,4 @@ Webを支えているのがコンピューターネットワークと呼ばれ�
 
 
 **<details><summary>07 HTTP</summary>**
+HTTP(HyperText Transfer Protocol)はクライアント(Webブラウザ)とサーバー(Webサーバー)間においてWebコンテンツを送受信するためのプロトコルです。実際にWebサイトを閲覧する一連の動作をもとに、HTTPによるクライアントとサーバー間のやりとりを見てみましょう。
