@@ -403,3 +403,4 @@ HTTP(HyperText Transfer Protocol)はクライアント(Webブラウザ)とサー
 
 
 # Chapter 3 HTTPでやりとりする仕組み
+この章では、HTTPがどのようにしてWebサイトの閲覧を実現しているのかを説明します。さらに、HTTPだけでは実現できない、現在のWebサイトの仕組みを支える技術についても取り上げます。
