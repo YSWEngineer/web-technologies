@@ -398,4 +398,4 @@ HTTP(HyperText Transfer Protocol)はクライアント(Webブラウザ)とサー
     Webサイト閲覧においてWebブラウザからWebサーバーに対してデータを要求した際は、アプリケーション層ではHTTP、トランスポート層ではTCP、インターネット層ではIP、ネットワークインターフェース層ではイーサネットプロトコルが利用されます。</details>
 
 
-**<details><summary>01 Webとは</summary>**
+**<details><summary>COLUMN</summary>**
