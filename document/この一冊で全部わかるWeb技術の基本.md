@@ -423,3 +423,6 @@ HTTP(HuperText Transfer Protocol)はその名の示すとおり、HTMLなどの�
     - HTTPメッセージの構成
     
         HTTPメッセージは複数行のデータで構成されます。開始行はHTTPリクエストとHTTPレスポンスで構文が異なり、リクエスト時は「リクエスト行」、レスポンス時は「ステータス行」と呼ばれます</details>
+
+
+**<details><summary>01 Webとは</summary>**
