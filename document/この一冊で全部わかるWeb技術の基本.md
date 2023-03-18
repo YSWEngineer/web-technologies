@@ -405,3 +405,6 @@ HTTP(HyperText Transfer Protocol)はクライアント(Webブラウザ)とサー
 # Chapter 3 HTTPでやりとりする仕組み
 **<details><summary>01 HTTPメッセージ</summary>**
 HTTP(HuperText Transfer Protocol)はその名の示すとおり、HTMLなどのテキストファイルや、画像などのコンテンツをやりとりするときに使われるプロトコルです。
+- HTTPメッセージによる「要求」と「応答」
+    
+    HTTPにおいて、WebブラウザとWebサーバーでやりとりする際に利用されるのが「HTTPメッセージ」と呼ばれるデータ形式です。HTTPメッセージを利用することで、Webブラウザがどういったデータを欲しいのかという要求をWebサーバーに伝えることができ、またWebサーバーもHTTPメッセージを利用してWebブラウザの要求に対する応答ができます。
