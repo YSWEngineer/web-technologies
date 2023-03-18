@@ -404,3 +404,4 @@ HTTP(HyperText Transfer Protocol)はクライアント(Webブラウザ)とサー
 
 # Chapter 3 HTTPでやりとりする仕組み
 **<details><summary>01 HTTPメッセージ</summary>**
+HTTP(HuperText Transfer Protocol)はその名の示すとおり、HTMLなどのテキストファイルや、画像などのコンテンツをやりとりするときに使われるプロトコルです。
