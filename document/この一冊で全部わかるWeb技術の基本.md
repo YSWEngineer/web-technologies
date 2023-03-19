@@ -455,4 +455,4 @@ HTTP(HuperText Transfer Protocol)はその名の示すとおり、HTMLなどの�
     - Webサーバーはリクエストに応じてHTTPレスポンスを返す</details>
 
 
-**<details><summary>01 Webとは</summary>**
+**<details><summary>03 HTTPメソッド</summary>**
