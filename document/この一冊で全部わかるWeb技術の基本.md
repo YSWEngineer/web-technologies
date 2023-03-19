@@ -452,4 +452,4 @@ HTTP(HuperText Transfer Protocol)はその名の示すとおり、HTMLなどの�
     HTTPリクエストとHTTPレスポンスのやりとりを繰り返し行うことで、Webサイトを閲覧できます。
 - イメージでつかもう！
     - WebブラウザがHTTPリクエストを送ってデータを要求する
-    - Webサーバーはリクエストに応じてHTTPレスポンスを返す
+    - Webサーバーはリクエストに応じてHTTPレスポンスを返す</details>
