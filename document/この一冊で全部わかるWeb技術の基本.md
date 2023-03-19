@@ -498,4 +498,4 @@ HTTPリクエストとHTTPレスポンスはいずれも「メッセージヘッ
     リクエストヘッダーフィールドの「Referer」の綴りは正しくは「Referrer」ですが、HTTPの技術使用を決める際に誤って登録され、以来間違ったままで使用されています。</details>
 
 
-**<details><summary>05 メッセージヘッダー</summary>**
+**<details><summary>06 TCPによるデータ通信</summary>**
