@@ -453,3 +453,6 @@ HTTP(HuperText Transfer Protocol)はその名の示すとおり、HTMLなどの�
 - イメージでつかもう！
     - WebブラウザがHTTPリクエストを送ってデータを要求する
     - Webサーバーはリクエストに応じてHTTPレスポンスを返す</details>
+
+
+**<details><summary>01 Webとは</summary>**
