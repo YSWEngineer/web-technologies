@@ -491,4 +491,4 @@ HTTPレスポンス内にはHTTPリクエストに対するWebサーバー内で
     「ティーポットにコーヒーを淹れさせようとして、拒否された場合に返す(418 I’m a teapot)」といったジョーク用のステータスコードもあります。</details>
 
 
-**<details><summary>04 ステータスコード</summary>**
+**<details><summary>05 メッセージヘッダー</summary>**
