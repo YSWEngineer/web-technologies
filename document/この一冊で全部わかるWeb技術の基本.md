@@ -499,3 +499,4 @@ HTTPリクエストとHTTPレスポンスはいずれも「メッセージヘッ
 
 
 **<details><summary>06 TCPによるデータ通信</summary>**
+HTTPのデータのやりとりを行うのはTCP(Transmission Control Protocol)の役割です。TCPはWebサイトの閲覧だけではなく、メールの送受信やファイル転送といったさまざまなデータ転送時に利用されています。
