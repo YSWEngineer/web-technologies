@@ -456,3 +456,4 @@ HTTP(HuperText Transfer Protocol)はその名の示すとおり、HTMLなどの�
 
 
 **<details><summary>03 HTTPメソッド</summary>**
+HTTPリクエストを用いてWebサーバーに具体的な要求内容を伝えているのは、HTTPリクエストないに含まれる「HTTPメソッド」です。HTTPメソッドは目的別に複数定義されており、例えばHTMLファイルなどコンテンツを取得したい場合は「GET」メソッド、データをWebサーバーに対して送信する場合は「POST」メソッドが利用されます。Webサイトを閲覧する際に主に利用されるHTTPメソッドは、この「GET」メソッドと「POST」メソッドの2つです。
