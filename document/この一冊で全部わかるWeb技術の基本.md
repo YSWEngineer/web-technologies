@@ -473,4 +473,4 @@ HTTPリクエストを用いてWebサーバーに具体的な要求内容を伝�
     HTTPが登場した当初、HTTPメソッドはGETメソッドしかありませんでした</details>
 
 
-**<details><summary>01 Webとは</summary>**
+**<details><summary>04 ステータスコード</summary>**
