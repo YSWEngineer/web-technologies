@@ -510,4 +510,4 @@ TCPではまずクライアントとサーバーがお互いに通信ができ�
     - サーバーからの接続要求に対してクライアントはACKパケットを送信します。</details>
 
 
-**<details><summary>01 Webとは</summary>**
+**<details><summary>07 HTTP/1.1のやりとり</summary>**
