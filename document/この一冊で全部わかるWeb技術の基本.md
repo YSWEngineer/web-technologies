@@ -541,4 +541,4 @@ TCPではまずクライアントとサーバーがお互いに通信ができ�
     バイナリ形式はコンピューターが扱うためのデータ形式で、テキスト形式はバイナリ形式を人間が読める形に変換したものです。</details>
 
 
-**<details><summary>09 HTTP/2での改良点</summary>**
+**<details><summary>10 HTTPSの仕組み</summary>**
