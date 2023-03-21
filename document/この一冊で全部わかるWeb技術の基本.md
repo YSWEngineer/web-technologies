@@ -545,3 +545,6 @@ TCPではまずクライアントとサーバーがお互いに通信ができ�
 Webサイトでショッピングやバンキング、チケット予約などのサービスを安心して利用できるようにする仕組みが「HTTPS(エイチティーティーエス)」です。
 
 HTTPSはHTTP over SSL/TLSの略で、HTTPの通信において、暗号化方式であるSSL(Secure Sockets Layer)やTLS(Transport Layer Security)を利用することでWebサイトを安全に使うことができます。
+- 安全性を確保する仕組み
+    
+    HTTPSで利用されるSSL/TLSでは、以下の3つの仕組みによりWebサイトの安全性を確保します。
