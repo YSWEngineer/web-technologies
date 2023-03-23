@@ -562,4 +562,4 @@ HTTPSはHTTP over SSL/TLSの略で、HTTPの通信において、暗号化方式
     SSLはバージョン3.0以降より名称がTLSと変更されましたが、この時点でSSLという名称が広く定着していたためにTLSのことも含めてSSLと呼ばれることが多くあります。</details>
 
 
-**<details><summary>01 Webとは</summary>**
+**<details><summary>11 HTTPSのやりとり</summary>**
