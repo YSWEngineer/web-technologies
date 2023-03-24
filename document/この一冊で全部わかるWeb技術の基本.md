@@ -623,4 +623,4 @@ WebブラウザとWebサーバーのやりとりにおいて、一連の関連�
     他人のセッションIDを盗聴などで盗み、そのセッションIDを使ってその人になりすまして操作を行うことをセッションハイジャックといいます。</details>
 
 
-**<details><summary>14 セッション</summary>**
+**<details><summary>15 URI</summary>**
