@@ -606,4 +606,4 @@ HTTPはステートレスなプロトコルであるため、WebブラウザとW
     これまではCookieが主流でしたが、最近のWebブラウザでは新しい方法もサポートし始めています。</details>
 
 
-**<details><summary>01 Webとは</summary>**
+**<details><summary>14 セッション</summary>**
