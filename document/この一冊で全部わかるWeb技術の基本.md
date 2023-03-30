@@ -700,3 +700,7 @@ XML(Extensible Markup Language)はHTMLと同じマークアップ言語ですが
 - プラス1
     
     XML、XHTMLのXは「Extensible」の発音を表しています。XMLやXGTMLも、HTMLと同じくW3Cによって標準化され勧告されています。</details>
+
+
+**<details><summary>04 CSS</summary>**
+CSS(Cascading Style Sheets)はHTMLやXMLの表示方法(体裁)を表現する記述で、「スタイルシート」とも呼ばれています。
