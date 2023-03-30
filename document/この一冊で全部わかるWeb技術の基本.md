@@ -704,3 +704,6 @@ XML(Extensible Markup Language)はHTMLと同じマークアップ言語ですが
 
 **<details><summary>04 CSS</summary>**
 CSS(Cascading Style Sheets)はHTMLやXMLの表示方法(体裁)を表現する記述で、「スタイルシート」とも呼ばれています。
+- HTMOの体裁を記述
+    
+    CSSが登場すると、HTMLを文書構造の記述のみのシンプルな内容にできるようになりました。
