@@ -689,3 +689,7 @@ Webで扱う画像データは、ネットワーク転送量を減らすため�
 
 **<details><summary>03 XML</summary>**
 XML(Extensible Markup Language)はHTMLと同じマークアップ言語ですが、Webに特化した機能を持つHTMLに対し、様々な用途に汎用的に利用できる作りになっています。
+- HTMLとは親戚関係
+    
+    XMLもHTMLも元はSGML(Standard Generalized Markup Lnguage)と言うマークアップ言語を改良して生まれた言語です。HTMLがWeb文書(ハイパーテキスト)を記述することに特化して仕様が定められていったのに対し、XMLは個別の目的に応じて汎用的に使えるように作られています。
+
