@@ -685,3 +685,7 @@ Webで扱う画像データは、ネットワーク転送量を減らすため�
 - プラス1
     
     上で紹介したもの以外にも、BMP、TIFF、SVG、WMF、EMFなどといったさまざまな画像形式も扱うことが可能です。</details>
+
+
+**<details><summary>03 XML</summary>**
+XML(Extensible Markup Language)はHTMLと同じマークアップ言語ですが、Webに特化した機能を持つHTMLに対し、様々な用途に汎用的に利用できる作りになっています。
