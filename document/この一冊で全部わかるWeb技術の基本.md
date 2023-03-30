@@ -696,3 +696,7 @@ XML(Extensible Markup Language)はHTMLと同じマークアップ言語ですが
 - XHTML
     
     XHTML(Extensible HyperText Markup Language)は、HTMLをXMLの文法で再定義したものです。XHTMLに埋め込まれて利用されるXML文書の例としては、MathML(マスエムエル、XMLで記述された数式)やSVG(XMLで記述された画像)があります。
+
+- プラス1
+    
+    XML、XHTMLのXは「Extensible」の発音を表しています。XMLやXGTMLも、HTMLと同じくW3Cによって標準化され勧告されています。</details>
