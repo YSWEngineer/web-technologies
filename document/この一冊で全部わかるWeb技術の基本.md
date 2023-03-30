@@ -693,3 +693,6 @@ XML(Extensible Markup Language)はHTMLと同じマークアップ言語ですが
     
     XMLもHTMLも元はSGML(Standard Generalized Markup Lnguage)と言うマークアップ言語を改良して生まれた言語です。HTMLがWeb文書(ハイパーテキスト)を記述することに特化して仕様が定められていったのに対し、XMLは個別の目的に応じて汎用的に使えるように作られています。
 
+- XHTML
+    
+    XHTML(Extensible HyperText Markup Language)は、HTMLをXMLの文法で再定義したものです。XHTMLに埋め込まれて利用されるXML文書の例としては、MathML(マスエムエル、XMLで記述された数式)やSVG(XMLで記述された画像)があります。
