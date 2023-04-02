@@ -720,3 +720,6 @@ CSS(Cascading Style Sheets)はHTMLやXMLの表示方法(体裁)を表現する�
 
 **<details><summary>05 スクリプト言語</summary>**
 動的処理にはスクリプト言語が使われます。サーバーサイド・スクリプトはCGIから呼び出すためHTMLと分離した別ファイルにします。クライアントサイド・スクリプトはHTMLと分離して別ファイルにしてもよいですし、HTML内に直接スクリプト言語の記述を書き込んで使うこともできます。一般的にはCSSと同様、Webサイト内で共有することが多いため、HTMLと分離させていることが多いです。
+- ECMAScript
+    
+    JavaScriptはFirefoxの開発で有名なMozilla FoundationとMicrosoftそれぞれで実装を進めていたため、ECMA(エクマ)インターナショナルがJavaScriptを標準化してECMAScriptを定めました。現在ではJavaScriptというとECMAScriptのことを指し、多くのWebブラウザはこのECMAScriptに対応しています。最近ではサーバーサイド・スクリプトで利用されることも増えてきています。
