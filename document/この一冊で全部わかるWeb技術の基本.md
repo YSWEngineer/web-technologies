@@ -733,3 +733,6 @@ CSS(Cascading Style Sheets)はHTMLやXMLの表示方法(体裁)を表現する�
     - Rubyはオブジェクト指向プログラミングに向いた言語仕様となっています。
     
     サーバーサイド・スクリプトの開発の際は、これらの特徴を踏まえ、最適な言語を選定する必要があります。</details>
+
+
+**<details><summary>05 スクリプト言語</summary>**
