@@ -723,3 +723,13 @@ CSS(Cascading Style Sheets)はHTMLやXMLの表示方法(体裁)を表現する�
 - ECMAScript
     
     JavaScriptはFirefoxの開発で有名なMozilla FoundationとMicrosoftそれぞれで実装を進めていたため、ECMA(エクマ)インターナショナルがJavaScriptを標準化してECMAScriptを定めました。現在ではJavaScriptというとECMAScriptのことを指し、多くのWebブラウザはこのECMAScriptに対応しています。最近ではサーバーサイド・スクリプトで利用されることも増えてきています。
+- Perl、Python、PHP、Ruby
+    
+    サーバーサイド・スクリプトの開発にはPerl、Python、PHP、Rubyという言語がよく使われています。
+    
+    - Perlは文法の自由度が高いため、多くの人が扱いやすいという特徴があります。
+    - Pythonは読みやすく簡潔なプログラムを書くことを目的に作られた言語です。
+    - PHPはWebで利用することをそうてされて作られた言語です。CGIから呼び出すのではなく、HTMLに埋め込んでもサーバーサイド・スクリプトとして使うことができるという大きな特徴を持っています。
+    - Rubyはオブジェクト指向プログラミングに向いた言語仕様となっています。
+    
+    サーバーサイド・スクリプトの開発の際は、これらの特徴を踏まえ、最適な言語を選定する必要があります。
