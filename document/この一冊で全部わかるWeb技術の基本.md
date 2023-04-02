@@ -753,3 +753,4 @@ DOMはW3Cによって標準化され、Level1からLevel3までの3段階で勧�
 
 
 **<details><summary>07 JSON</summary>**
+JSON(ジェイソン、JavaScript Object Notaiton)は、構造化したデータを表すためのデータ記述言語の一種です。名前に「JavaScript」と付いてはいますが、書式がJavaScript(ECMAScript)に従ったものとなっているだけで、JavaScript専用ということではありません。JavaScript以外にも多くのプログラミング言語がJSONの読み書きに対応しています。
