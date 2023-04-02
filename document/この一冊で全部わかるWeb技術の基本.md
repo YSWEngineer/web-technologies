@@ -752,4 +752,4 @@ DOMはW3Cによって標準化され、Level1からLevel3までの3段階で勧�
     木構造の枝葉の部分は「ノード」と呼ばれ、DOMではこのノードを辿っていくことで目的のデータにアクセスし、参照や編集を行います。</details>
 
 
-**<details><summary>06 DOM</summary>**
+**<details><summary>07 JSON</summary>**
