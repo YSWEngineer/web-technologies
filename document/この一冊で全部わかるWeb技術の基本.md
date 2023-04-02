@@ -736,3 +736,12 @@ CSS(Cascading Style Sheets)はHTMLやXMLの表示方法(体裁)を表現する�
 
 
 **<details><summary>06 DOM</summary>**
+DOM(Document Object Model)とは、HTMLやXML文書を扱うための手法(API)です。DOMを使うことで、プログラムからHTMLやXMLの書く要素を容易に参照・制御できます。
+
+現在ではほとんどのWebブラウザがDOMを実装しており、Webページ上に仕込まれたスクリプト(クライアントサイド・スクリプト)やWebブラウザに実装された機能などからWebページ上の内容を読み取ったり編集することが容易になっています。
+
+DOMはW3Cによって標準化され、Level1からLevel3までの3段階で勧告されています。
+
+- Level1 XML1.0とHTML4.0xへの対応
+- Level2 XML1.0の拡張とXHTML1.0、スタイルシートのサポートなどの追加
+- Level3 XML1.0の拡張とDOMツリーの読み書き機能などの追加
