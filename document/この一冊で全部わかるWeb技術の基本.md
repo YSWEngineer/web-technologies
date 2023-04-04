@@ -806,5 +806,5 @@ JSON(ジェイソン、JavaScript Object Notaiton)は、構造化したデータ
     身近なところではGoogle検索のリッチスニペット(検索結果に商品レビューの件数や店の営業時間を表示する機能)に利用されています。</details>
 
 
-**<details><summary>09 マイクロフォーマット</summary>**
+**<details><summary>10 音声・動画配信</summary>**
 
