@@ -819,3 +819,4 @@ JSON(ジェイソン、JavaScript Object Notaiton)は、構造化したデータ
 
 
 **<details><summary>11 メディアタイプ</summary>**
+Webページの閲覧に使う機器の種類をHTML内やCSS内で「メディアタイプ」として指定することができ、それによって機器ごとにデザインを変更したWebページを表示できます。
