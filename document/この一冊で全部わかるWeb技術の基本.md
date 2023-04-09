@@ -976,4 +976,4 @@ Webアプリケーションに蓄積されるデータはデータベース(DB)�
     CDN最大手のAkamai Technologiesはあまり知られていませんが、インターネットの15〜30％の通信を占めているとされ、インターネット最大の会社と呼ばれています。</details>
 
 
-**<details><summary>08 キャッシュサーバー</summary>**
+**<details><summary>09 Ajax</summary>**
