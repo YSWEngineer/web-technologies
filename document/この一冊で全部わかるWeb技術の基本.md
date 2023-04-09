@@ -992,4 +992,4 @@ Webアプリケーションに蓄積されるデータはデータベース(DB)�
     AjaxはWebブラウザ上で専門アプリが動いているようなもので、デスクトップアプリやスマホアプリとWebブラウザの中間のような存在です。</details>
 
 
-**<details><summary>09 Ajax</summary>**
+**<details><summary>10 Webプログラミング</summary>**
