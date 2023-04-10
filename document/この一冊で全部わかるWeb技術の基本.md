@@ -1018,4 +1018,4 @@ Webの「クライアントがデータを送信して、サーバーからデ�
     - RESTはプロトコルではなく設計思想です。シンプルな設計で、かつデータ形式がXMLに限定されずJSONのような軽量なデータも利用できることから、SOAPの代わりに現在の主流となっています。</details>
 
 
-**<details><summary>11 Web API</summary>**
+**<details><summary>12 マッシュアップ</summary>**
