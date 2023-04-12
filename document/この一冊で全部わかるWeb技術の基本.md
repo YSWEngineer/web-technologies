@@ -1061,4 +1061,4 @@ CGIを利用せずにサーバーサイド・スクリプトを動作させる�
     自らの稼働しているサーバー機器を表す方法として「localhost.localdomain」という特殊なドメイン名も用意されています。</details>
 
 
-**<details><summary>14 サーバー間の連携</summary>**
+**<details><summary>COLUMN</summary>**
