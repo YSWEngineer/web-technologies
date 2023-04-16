@@ -1173,3 +1173,5 @@ Webシステムへの攻撃を防ぐ方法として、最も有効なのは「�
 
 
 **<details><summary>07 IDS、IPS</summary>**
+ファイアーウォールで防ぎきれない攻撃を防ぐ手段の1つにIDS(Intrusion Detection System)とIPS(Intrusion Prevention System)があります。両者とも、通信を監視するネットワーク型と、サーバー上のユーザーの動きを監視するホスト型の2種類がありますが、ここではネットワーク型のものについて説明します。
+
