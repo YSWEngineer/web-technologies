@@ -1226,3 +1226,6 @@ IDSやIPSを使うことで、DoS攻撃のような明らかに不審な通信�
 - プラス1
     
     Webにおける通信経路の暗号化には通常HTTPSが使われます。</details>
+
+
+**<details><summary>10 公開鍵証明書</summary>**
