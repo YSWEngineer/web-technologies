@@ -1265,3 +1265,6 @@ IDSやIPSを使うことで、DoS攻撃のような明らかに不審な通信�
 - プラス1
     
     ログイン画面に「Googleでログイン」や「Facebookでログイン」という選択肢があるサイトはここで紹介した認証APIやOpenIDを利用しています。</details>
+
+
+**<details><summary>12 認可</summary>**
