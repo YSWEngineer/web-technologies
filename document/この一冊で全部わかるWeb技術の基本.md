@@ -1314,4 +1314,4 @@ Webシステムに対する攻撃の多くが、Webシステムの脆弱性を�
 
 
 # Chapter 7 Webシステムの構築と運用
-**<details><summary>COLUMN</summary>**
+**<details><summary>01 提供するサービスの検討</summary>**
